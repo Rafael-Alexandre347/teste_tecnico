@@ -1,0 +1,7 @@
+4) Descubra a lógica e complete o próximo:
+a) 1, 3, 5, 7, ___ = 9 (sequência crescente de números inteiros ímpares)
+b) 2, 4, 8, 16, 32, 64, ___ = 128 (o próximo número sempre será o dobro do seu antecessor)
+c) 0, 1, 4, 9, 16, 25, 36, ___ = 49 (soma por uma sequência crescente de todos os números inteiros ímpares)
+d) 4, 16, 36, 64, ___ = 100 (os números são resultados de 4 X N, onde N é o multiplicador anterior, somado pelo próximo número ímpar no domínio dos inteiros, como por exemplo: 4 X 1 = 4, 4 X (1+3) = 16, 4 X (4+5) = 36, 4 X (9+7) + 64, etc.)
+e) 1, 1, 2, 3, 5, 8, ___ = 13 (Sequência de Fibonacci)
+f) 2, 10, 12 , 16, 17, 18, 19, ___ = 20 (O primeiro número é somado por 8, o segundo por 4, o terceiro por 2, e os outros por 1, isso indica que o próximo número será o resultado inteiro aproximado do número que irá efetuar a soma, dividido por 2, e como o resultado inteiro aproximado de 1/2 é 1, todos os próximos números serão N+1)
